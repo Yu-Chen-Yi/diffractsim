@@ -118,3 +118,21 @@ python phase_hologram_github_logo_generation_and_reconstruction.py
 ```
 
 [![animation](/images/github_logo.gif)](/examples/phase_hologram_github_logo_generation_and_reconstruction.py)
+
+```
+python L_letter.py
+```
+
+![image](https://github.com/user-attachments/assets/70b10a5c-79df-4955-9876-f1a875315d7f)
+
+```
+python F_L_letter.py
+```
+
+![image](https://github.com/user-attachments/assets/0d8ad07b-271c-4342-8ed3-f18fd009287e)
+
+```
+python teng.py
+```
+
+![image](https://github.com/user-attachments/assets/05b2eaf4-8580-4786-af3e-dbd5956d86c9)
